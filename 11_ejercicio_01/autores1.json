@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "blog": "www.cervantes.es",
+        "nombre": "Miguel de Cervantes",
+        "nacionalidad": "Español"
+    },
+    {
+        "id": 2,
+        "blog": "www.lorenzosilva.es",
+        "nombre": "Lorenzo Silva",
+        "nacionalidad": "Español"
+    },
+    {
+        "id": 3,
+        "blog": "www.javiercercas.es",
+        "nombre": "Javier Cercas",
+        "nacionalidad": "Español"
+    },
+    {
+        "id": 4,
+        "blog": "www.garciamarquez.es",
+        "nombre": "Gabriel García Márquez",
+        "nacionalidad": "Colombia"
+    },
+    {
+        "id": 5,
+        "blog": "www.perezreverte.es",
+        "nombre": "Arturo Pérez Reverte",
+        "nacionalidad": "Español"
+    },
+    {
+        "id": 6,
+        "blog": "www.almudenagrandes.es",
+        "nombre": "Almudena Grandes",
+        "nacionalidad": "España"
+    }
+]
